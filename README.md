@@ -14,7 +14,11 @@ An android app developed in Flutter to provide statistics of outbreak in India. 
 | ------------- | ------------- |
 | ![StateWise](https://github.com/yash-maurya/covid19_tracker/blob/master/screenshots/statewise_low.jpg?raw=true)  | ![Developer](https://github.com/yash-maurya/covid19_tracker/blob/master/screenshots/developer_low.jpg?raw=true) |
 
+## Build APK
 
+[![Download](https://yashmaurya.in/covid19_tracker/download_button.png)](https://yashmaurya.in/covid19_tracker/covid19_tracker.apk)
+
+Click above to download already build apk
 
 ## Installation and Building
 
